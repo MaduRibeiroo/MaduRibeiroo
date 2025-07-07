@@ -1,7 +1,7 @@
 # 🎓 Madu Ribeiro
-<p>💻 Bacharelanda em Ciência da Computação – Unoeste | 20 anos | São Paulo
-<br>
-Sou estudante com forte interesse em desenvolvimento fullstack, unindo lógica estruturada no backend com atenção à usabilidade no frontend. Tenho experiência sólida em C, C++, Java e SQL, além de domínio de HTML e CSS para criação de interfaces web funcionais e bem estruturadas. Me destaco na construção de soluções completas, desde a estruturação de dados e regras de negócio até a apresentação visual, com foco em clareza, organização e eficiência de código..</p>
+<p>💻 Bachelor's Student in Computer Science – Unoeste | 20 years old | São Paulo, Brazil  
+<br>  
+I'm a computer science student with a strong interest in fullstack development, combining structured backend logic with a keen eye for frontend usability. I have been learning and gaining experience in several programming languages such as C, C++, Java, and SQL, as well as HTML, CSS, and JavaScript for building functional and well-structured web interfaces. I excel at creating complete solutions—from data structures and business logic to visual presentation—always focusing on clarity, organization, and code efficiency.</p>
 
 ---
 
