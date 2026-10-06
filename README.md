@@ -1,5 +1,5 @@
 # 🎓 Madu Ribeiro
-<p>💻 Bachelor's Student in Computer Science – Unoeste | 20 years old | São Paulo, Brazil  
+<p>💻 Bachelor's Student in Computer Science – Unoeste | 21 years old | São Paulo, Brazil  
 <br>  
 I'm a computer science student with a strong interest in fullstack development, combining structured backend logic with a keen eye for frontend usability. I have been learning and gaining experience in several programming languages such as C, C++, Java, and SQL, as well as HTML, CSS, and JavaScript for building functional and well-structured web interfaces. I excel at creating complete solutions—from data structures and business logic to visual presentation—always focusing on clarity, organization, and code efficiency.</p>
 
